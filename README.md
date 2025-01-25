@@ -242,7 +242,8 @@ We welcome contributions to enhance the functionality of this tool! To contribut
 ## **Contact**
 
 For any questions, feedback, or issues, please contact:
-- **Email:** support@yourdomain.com
+- **Email:** raj075512@gmail.com
+- **Current company**: STokhos research Capital LLP
 - **GitHub Issues:** Open an issue in this repository.
 
 ---
